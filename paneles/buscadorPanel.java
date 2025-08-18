@@ -5,11 +5,12 @@ import javax.swing.JTextField
 
 import java.awt.Color;
 
-public class panelBuscador extends JPanel {
+public class buscadorPanel extends JPanel {
 
-    public panelBuscador(){
+    public buscadorPanel (){
         System.out.println("Bus");
-        configuraciones
+        //configuraciones
+        
         this.setBackground(Color.RED);
 
         //Buscador => (JLabel)

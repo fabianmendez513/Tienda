@@ -1,3 +1,4 @@
+import control.TiendaFecher;
 import vistas.Dashboard;
 
 public class Main {
