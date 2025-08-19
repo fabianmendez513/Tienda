@@ -1,2 +1,3 @@
 # Tienda
-![Captura de la tienda](https://i.imgur.com/xxxxx.png)
+![Captura de la tienda](https://imgur.com/a/ihj6Qmx)
+
