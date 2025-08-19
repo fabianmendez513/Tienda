@@ -7,7 +7,7 @@ import modulos.ProductoModule;
 public class ProductoPanel extends JPanel {
 
     public ProductoPanel() {
-        setLayout(new GridLayout(2, 4, 10, 10)); // 2 filas x 4 columnas
+        setLayout(new GridLayout(2, 4, 10, 10));
         setBorder(BorderFactory.createTitledBorder("Productos"));
 
         ProductoModule producto1 = new ProductoModule("url1", "Producto 1");
